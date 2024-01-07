@@ -1,0 +1,8 @@
+opencv-python
+matplotlib
+imageio
+gdown
+tensorflow
+typing
+numpy
+-e.
