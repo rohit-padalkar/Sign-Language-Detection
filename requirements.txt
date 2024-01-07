@@ -1,8 +1,7 @@
 opencv-python
 matplotlib
-imageio
-gdown
-tensorflow
-typing
+time
 numpy
+mediapipe
+sklearn
 -e.
