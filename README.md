@@ -1,6 +1,9 @@
 
 # Sign Language Detection using LSTM Deep Learning
 
+# License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/rohit-padalkar/Sign-Language-Detection/blob/main/LICENSE) file for details.
+
 This project aims to detect and recognize sign language gestures using LSTM (Long Short-Term Memory) networks in deep learning.
 
 ## Steps
